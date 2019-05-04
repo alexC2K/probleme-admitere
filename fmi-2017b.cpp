@@ -28,5 +28,6 @@ int main() {
 
     if(ok) cout << "DA";
     else cout << "NU";
+    
     return 0;
 }

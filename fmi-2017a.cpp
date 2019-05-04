@@ -8,7 +8,6 @@ ifstream f("date.in");
 int L;
 char s[10000];
 
-
 int main() {
     f >> L;
     f.get();
@@ -30,4 +29,5 @@ int main() {
         }
         p = strtok(NULL, " ");
     }
+    return 0;
 }
