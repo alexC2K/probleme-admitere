@@ -1,3 +1,3 @@
 # probleme-admitere
-For my knowdledge.
+For my knowledge.
 Feel free to use.
